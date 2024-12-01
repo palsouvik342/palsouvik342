@@ -9,12 +9,12 @@
 
 ###
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/palsouvik342/palsouvik342/output/upgrading.gif"  />
+  <h3>My Tech Stack: </h3>
+<img align="right" height="220" src="https://raw.githubusercontent.com/palsouvik342/palsouvik342/main/upgrading.gif"  />
 
 ###
 
 <div align="left"> 
-  <h3>My Tech Stack: </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
