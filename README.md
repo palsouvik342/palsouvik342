@@ -10,7 +10,7 @@
 ###
 
   <h3>My Tech Stack: </h3>
-<img align="right" height="220" src="https://raw.githubusercontent.com/palsouvik342/palsouvik342/main/upgrading.gif"  />
+<img align="right" height="220" src="https://raw.githubusercontent.com/palsouvik342/palsouvik342/main/upgrading(1).gif"  />
 
 ###
 
